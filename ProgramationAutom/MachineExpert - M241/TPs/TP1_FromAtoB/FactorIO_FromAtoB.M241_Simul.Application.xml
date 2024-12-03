@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.5.0.0" runtimeid="3.5.19.40" libversion="4.5.0.0" compiler="3.5.19.40" lmm="3.5.19.40" profile="V22.1.1.0" settings="LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="FactorIO_FromAtoB" devicename="M241_Simul" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BOOL" size="1" swapsize="0" typeclass="Bool" iecname="BOOL" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="VariablesFactoIO">
+        <Node name="Backward" type="T_BOOL" access="ReadWrite" />
+        <Node name="Forward" type="T_BOOL" access="ReadWrite" />
+        <Node name="H1_Start" type="T_BOOL" access="ReadWrite" />
+        <Node name="S1_IN" type="T_BOOL" access="ReadWrite" />
+        <Node name="S2_OUT" type="T_BOOL" access="ReadWrite" />
+        <Node name="S3_Start" type="T_BOOL" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>
