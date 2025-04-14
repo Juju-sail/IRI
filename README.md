@@ -22,7 +22,7 @@
     │   │   ├── NotesPerso/  # PDF exportés de mon OneNote
     │   │   ├── TPs/ # Projet Perfo + Reel
     │   ├── MachineExpert - M241/
-    │   │   ├── Cours/  # Fichiers de Correntin
+    │   │   ├── Cours/  # Fichiers Perfo
     │   │   ├── TPs/
     │   ├── TIA Portal/
     │   │   ├── CoursDocs/  # Fichiers Padlet
